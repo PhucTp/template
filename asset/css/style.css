@@ -54,7 +54,7 @@
 
 #slider{
     padding-top: 50%;
-    background: url('./asset/img/Navbar/BG\ Image.png') top center / cover no-repeat;
+    background: url('../img/Navbar/BG\ Image.png') top center / cover no-repeat;
     position: relative;
 }
 .slider__content{
