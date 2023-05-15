@@ -1,0 +1,21 @@
+:root{
+    --green-primary : #70C174; 
+    --green-secondary : #BEF3C0;
+    --green-tertiary : #EFF7F2;  
+    --black: #0B0706;
+    --primary-text: #1D2130;
+    --secondary-text: #525560; 
+    --off-white: #EBF0F9;
+    --border: #E5E5E5;
+}
+* {
+    box-sizing: inherit;
+    padding: 0; 
+    margin: 0;
+}
+
+html{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+

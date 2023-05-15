@@ -1,0 +1,218 @@
+
+/* Mobile */
+@media(max-width:740px){
+    .nav__btn{
+        display: none;
+    }
+    .nav__logo{
+        display: none;
+    }
+    #tonggle{
+        display: block;
+    }
+    .slider__end{
+        display: none;
+    }
+  
+    .slider__main{
+        position: absolute;
+        top: 70px;
+        left: 25px;
+        display: flex;
+        justify-content: space-betwe
+    }
+    .slider__link {
+        font-size: 12px;
+    }
+    .contact__btn-link {
+        font-size: 17px;
+        line-height: 18px;
+        padding: 19px 35px;
+    }
+    .contact__btn {
+        padding-left: 0;
+    }
+
+    .contact__member-img {
+        width:300px;
+    }
+    .contact__content-desc-text-help {
+        width: 300px;
+        height: 52px;
+    }
+    .contact__footer-text {
+        font-weight: 500;
+        width: 300px;
+        font-size: 30px;
+        line-height: 35px;
+        letter-spacing: 2px;
+        margin-left: 10px;
+        color: var(--primary-text);
+    }
+    .contact__footer-left{
+        display: none;
+    }
+    .contact__content-heading {
+        width: 300px;
+    }
+    .contact__content-desc-text {
+        width: 320px;
+    }
+    .contact__vector-desc{
+        width: 300px;
+    }
+    .contact__line {
+        display: none;
+    }
+    .contact__section{
+        margin-left: 0;
+    }
+    a.contact__last-link {
+        display: block;
+        padding: 12px;
+    }
+    .contact__member-icon{
+        display: none;
+    }
+    #donation{
+        display: none;
+    }
+    .contact__line{
+        display: none;
+    }
+    .volunteer-slider{
+        display: none;
+    }
+    .volunteer-button {
+        display: none;;
+    }
+    .volunterr-heading {
+        display: none;
+    }
+    .read-member__picture {
+        width: 400px;
+    }
+    .read-member__text {
+        width: 300px;
+    }
+    .read-member__heading {
+        width: 300px;
+    }
+    .read-member__picture-media {
+        width: 400px;
+        height: 300px;
+    }
+    .event-content {
+        width: 400px;
+    }
+    .event-content__text {
+        width: 250px;
+    }
+    .footer-content__heading {
+        width: 300px;
+        margin-left: 10px;
+    }
+    .footer-content__input {
+        width: 280px;
+        height: 64px;
+        margin-left: 10px;
+        border: 1px solid rgba(235, 240, 249, 0.3);
+        border-radius: 4px;
+        background-color: #000;
+    }
+    .our__mission {
+        position: relative;
+        background-color: var(--green-tertiary);
+        padding-top: 250px;
+        margin-top: 250px;
+        padding-bottom: 100px;
+        display: none;
+    }
+    .society-text {
+        margin-top: 15px;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 120%;
+        width: 300px;
+        position: relative;
+        transform: translateX(-50%);
+        left: 50%;
+        padding-bottom: 60px;
+    }
+    .contact__content.col.l-6 {
+        margin-bottom: 40px;
+    }
+    .contact__content-heading-make {
+        margin-top: 15px;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 120%;
+        width: 300px;
+        height: 134px;
+    }
+    .contact__content-desc-text-make {
+        margin-top: 100px;
+    }
+    .contact__vector-desc-protect-people {
+        margin-top: 15px;
+        width: 300px;
+    }
+    .slider__heading{
+        display: none;
+    }
+    .picture__about{
+        display: none;
+    }
+    .contact__member-img1{
+        display: none;
+    }
+    .project{
+        display: none;
+    }
+    .climate-picture__img{
+        display: none;
+    }
+    .aboutbig-section__heading{
+        display: none;
+    }
+    .aboutbig-big {
+        display: flex;
+        flex-direction: column;
+    }
+    .contact__content-heading-what {
+        margin-top: 40px;
+        width: 400px;
+        height: 134px;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 120%;
+    }
+    .model-container.row {
+        flex-direction: column;
+    }
+    .model-content.col.l-6 {
+        padding: 20px;
+    }
+    .model-main__input {
+        margin-top: 10px;
+        width: 300px;
+        padding: 40px 35px;
+    }
+    .model-main {
+        margin-left: 20px;
+    }
+    .footer-content__text {
+        margin-bottom: 30px;
+    }
+    .team-member__picture .team-member__img {
+        width: 400px;
+        height: 320px;
+    }
+}
+
+
+
+/* Tablet */
+@media(min-width: 740px) and (max-width: 1023px){
+
+}
